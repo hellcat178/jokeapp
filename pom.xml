@@ -30,9 +30,8 @@
 
         <dependency>
             <groupId>guru.springframework</groupId>
-            <artifactId>chuck-norris-for-actuator-parent</artifactId>
+            <artifactId>chuck-norris-for-actuator</artifactId>
             <version>0.0.2</version>
-            <type>pom</type>
         </dependency>
 
         <dependency>
